@@ -14,3 +14,5 @@ List of Topics:
 3. Variables
 4. Functions
 5. Conditions
+
+First commit for AWS CentOS check :)
