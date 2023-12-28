@@ -20,3 +20,5 @@ First commit for AWS CentOS check :)
 2nd commit for AWS CentOS check :)
 
 Again checking pull from Desktop.
+
+Again checking push to AWS CentOS :)
