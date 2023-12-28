@@ -7,3 +7,10 @@ New File
 To check the pull.
 
 To check the push.
+
+List of Topics:
+1. Comments
+2. Print
+3. Variables
+4. Functions
+5. Conditions
